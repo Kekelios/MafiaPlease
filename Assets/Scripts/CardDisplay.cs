@@ -14,13 +14,7 @@ public class CardDisplay : MonoBehaviour
     public TMP_Text leftchoice;
 
     public Image artwork;
-    private int index;
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public int index;
 
     public void BeginPlay()
     {
